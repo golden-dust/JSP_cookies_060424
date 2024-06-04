@@ -19,7 +19,7 @@
 			response.addCookie(cookies[i]);  // step 2
 		}
 		
-		response.sendRedirect("login.jsp");
+		// response.sendRedirect("login.jsp");
 	%>
 	<hr>
 	<a href="login.jsp">로그인 페이지로 이동</a><br>
